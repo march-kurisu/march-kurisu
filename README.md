@@ -8,3 +8,13 @@
 🔷🌱 My repositories contain **learning notes, small experiments,** and **simple projects** that keep growing over time.
 
 🟦🍏 _"I believe every line of code is a step toward becoming a better developer. "_ 
+
+![March's GitHub stats](https://github-readme-stats.vercel.app/api?username=march-kurisu&show_icons=true&theme=holi)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/march-kurisu/march-kurisu/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/march-kurisu/march-kurisu/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/march-kurisu/march-kurisu/output/pacman-contribution-graph.svg">
+</picture>
+
+###
